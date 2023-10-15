@@ -25,14 +25,19 @@
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 - [cs-fundamentals](https://github.com/connor11528/cs-fundamentals)
+- [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+- [computer-science](https://github.com/ossu/computer-science)
 
 ### Areas
 
 #### Frontend
 
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions)
+- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [interview-questions-in-javascript](https://github.com/kennymkchan/interview-questions-in-javascript)
 - [react-coding-challenges](https://github.com/alexgurr/react-coding-challenges)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
 
 #### Data Science
 
